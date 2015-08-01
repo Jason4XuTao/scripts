@@ -1,6 +1,1 @@
-# scripts
-scripts for middleware/system/database performance indicator collecting
-scripts include but not limited to following:
-middleware include weblogic/tomcat/websphere
-system include linux/hp-ux/aix
-database include oracle/mysql
+<p># scripts<br />scripts for middleware/system/database performance indicator collecting<br />scripts include but not limited to following:<br />middleware include weblogic/tomcat/websphere<br />system include linux/hp-ux/aix<br />database include oracle/mysql</p>
